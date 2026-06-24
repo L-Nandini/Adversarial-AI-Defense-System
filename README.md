@@ -1,5 +1,4 @@
-# Adversarial-AI-Defense-System
-# AI VIGIL-GUARD
+# Adversarial-AI-Defense-System(AI VIGIL-GUARD)
 
 AI VIGIL-GUARD is a real-time adversarial attack detection and defense system for machine learning models.
 
